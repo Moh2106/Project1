@@ -56,7 +56,7 @@ ul li span
   color: hsl(0, 0%, 100%);
 }
 
-@media screen and (max-width: 1025px)
+@media screen and (max-width: 375px)
 {
   body
   {
